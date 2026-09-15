@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.astro/
+.env
+.DS_Store
+*.tsbuildinfo
+
+# one-off local working files, not used by the site
+/7.png
+/diana logo options.png
+/Screenshot*.png
+
+# local AI tooling config, not part of the site
+/.agents/
+/.claude/
+/.codex/
+/.impeccable/
